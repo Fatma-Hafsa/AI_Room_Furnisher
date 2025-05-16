@@ -129,8 +129,7 @@ Cette architecture permet une expérience fluide où l'utilisateur peut:
 ## Équipe
 
 Projet développé par:
-- Fatma
-- Hafsa
+- Fatma Hafsa
 - Marwa Rizi
 
 ## Prérequis techniques
