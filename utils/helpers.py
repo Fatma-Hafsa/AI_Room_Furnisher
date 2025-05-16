@@ -1,5 +1,12 @@
+import sys
+import os
+
+
 import streamlit as st
 from PIL import Image
+
+# Ajouter l'import manquant
+from utils.image_processing import composite_multiple_furniture
 
 def create_draggable_canvas_alt(room_img, furniture_items, active_index=0):
     """Version alternative du canvas sans dépendance à streamlit-drawable-canvas"""
