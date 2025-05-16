@@ -1,8 +1,8 @@
-# IKEA AI Room Designer Pro
+# AI ROOM FURNISHER
 
 ## Présentation
 
-IKEA AI Room Designer Pro est une application avancée de design d'intérieur propulsée par l'intelligence artificielle. Elle permet aux utilisateurs de visualiser comment des meubles IKEA ou leur propre meubles s'intégreront dans une pièce entièrement décorée par l'IA.
+ AI Room FURNISHER est une application avancée de design d'intérieur propulsée par l'intelligence artificielle. Elle permet aux utilisateurs de visualiser comment des meubles IKEA ou leur propre meubles s'intégreront dans une pièce entièrement décorée par l'IA.
 
 ## Fonctionnalités
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## Structure 
-ikea-ai-room-designer/
+ia-room-furnisher/
 │
 ├── README.md                 # Documentation du projet avec crédits à votre équipe
 ├── requirements.txt          # Dépendances du projet
