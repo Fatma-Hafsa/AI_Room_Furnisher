@@ -6,7 +6,7 @@ IKEA AI Room Designer Pro est une application avancée de design d'intérieur pr
 
 ## Fonctionnalités
 
-- **Mode IKEA**: Sélectionnez des meubles IKEA et placez-les dans votre pièce
+- **Mode IKEA**: Sélectionnez des meubles IKEA ou uploader votre propre meuble et placez-les dans votre pièce
 - **Mode Simple**: Générez directement un design d'intérieur à partir d'une description textuelle
 - **Placement intelligent**: Positionnez vos meubles avec précision
 - **Styles variés**: Choisissez parmi plusieurs styles d'intérieur (Scandinave, Moderne, Industriel, etc.)
