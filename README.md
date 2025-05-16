@@ -23,7 +23,35 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
+## Structure 
+ikea-ai-room-designer/
+│
+├── README.md                 # Documentation du projet avec crédits à votre équipe
+├── requirements.txt          # Dépendances du projet
+├── app.py                    # Point d'entrée principal
+│
+├── config/                   # Configuration
+│   ├── __init__.py
+│   └── constants.py          # Constantes et configuration
+│
+├── static/                   # Ressources statiques
+│   └── styles.py             # Styles CSS
+│
+├── models/                   # Modèles IA et données
+│   ├── __init__.py
+│   ├── model_loader.py       # Chargement des modèles IA
+│   └── ikea_data.py          # Gestion des données IKEA
+│
+├── utils/                    # Utilitaires et fonctions
+│   ├── __init__.py
+│   ├── image_processing.py   # Traitement d'image
+│   ├── ui_components.py      # Composants d'interface utilisateur
+│   └── helpers.py            # Fonctions utilitaires diverses
+│
+└── modes/                    # Différents modes de l'application
+    ├── __init__.py
+    ├── ikea_mode.py          # Mode avec sélection de meubles
+    └── simple_mode.py        # Mode inpainting direct
 ## Modes d'utilisation
 ![image](https://github.com/user-attachments/assets/06a4b3b3-6dd3-44b6-9a28-ef36dd47f52e)
 
@@ -138,3 +166,6 @@ Projet développé par:
 - Python 3.8 ou supérieur
 - GPU recommandé pour des performances optimales
 - Connexion internet pour télécharger les modèles IA et le catalogue IKEA
+
+##  Remerciements
+Merci à Ivona Tau pour le dataset IKEA utilisé dans le projet.
