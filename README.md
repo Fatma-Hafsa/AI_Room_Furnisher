@@ -2,7 +2,7 @@
 
 ## Présentation
 
-IKEA AI Room Designer Pro est une application avancée de design d'intérieur propulsée par l'intelligence artificielle. Elle permet aux utilisateurs de visualiser comment des meubles IKEA s'intégreront dans une pièce entièrement décorée.
+IKEA AI Room Designer Pro est une application avancée de design d'intérieur propulsée par l'intelligence artificielle. Elle permet aux utilisateurs de visualiser comment des meubles IKEA ou leur propre meubles s'intégreront dans une pièce entièrement décorée par l'IA.
 
 ## Fonctionnalités
 
@@ -25,6 +25,7 @@ streamlit run app.py
 ```
 
 ## Modes d'utilisation
+![image](https://github.com/user-attachments/assets/06a4b3b3-6dd3-44b6-9a28-ef36dd47f52e)
 
 ### Mode IKEA
 1. Téléchargez une image de votre pièce
