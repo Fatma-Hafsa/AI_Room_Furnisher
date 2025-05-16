@@ -43,7 +43,7 @@ def main():
     # Pied de page commun
     st.markdown("""
     <div class="footer">
-        <p>© 2024 IKEA AI Room Designer | Propulsé par l'intelligence artificielle</p>
+        <p>© 2025 IKEA AI Room Designer | Propulsé par l'intelligence artificielle | Fatma Hafsa et Marwa Rizi</p>
         <p>Ce service utilise des modèles de diffusion stables pour créer des designs d'intérieur personnalisés</p>
     </div>
     """, unsafe_allow_html=True)
